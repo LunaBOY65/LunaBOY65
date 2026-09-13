@@ -1,6 +1,6 @@
-### Hi there, I'm Dino 👋
+### Hi there, I'm Dino 👋🦕
 
-Personal GitHub used to store various project codes and other programming-related codes.
+A personal sandbox for my coding experiments and learnings.
 
-- ❤️ I'm passionate about learning.
-- 🫢 My favorite hobby: Reading books and hitting mung ^^
+- 🧪 **Exploring:** Building new experiments and pet projects
+- 😻 **Hobbies:** Reading books, hitting mungg, and cat-watching 🐾🐨
